@@ -1,0 +1,4 @@
+/home/qianziyang/IRobot/camera/build/CMakeFiles/video_demo.dir
+/home/qianziyang/IRobot/camera/build/CMakeFiles/daheng_demo.dir
+/home/qianziyang/IRobot/camera/build/CMakeFiles/edit_cache.dir
+/home/qianziyang/IRobot/camera/build/CMakeFiles/rebuild_cache.dir
